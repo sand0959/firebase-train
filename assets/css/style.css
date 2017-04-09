@@ -1,0 +1,23 @@
+body {
+    background: url('../images/train.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.jumbotron {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    min-width: 100%;
+}
+
+.schedule-container {
+    min-width: 100%;
+}
+
+.input-container {
+    min-width: 100%;
+}
+
+
+table {
+    border-collapse: separate;
+    border-spacing: 6px;
+}
